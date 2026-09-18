@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doancasotti.github.io/sitemap.xml
